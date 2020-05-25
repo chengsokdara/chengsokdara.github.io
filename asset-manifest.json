@@ -1,29 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.1dc0ea7f.chunk.css",
-    "main.js": "/static/js/main.ba91b844.chunk.js",
-    "main.js.map": "/static/js/main.ba91b844.chunk.js.map",
+    "main.css": "/static/css/main.4c422fd8.chunk.css",
+    "main.js": "/static/js/main.07b8c7b2.chunk.js",
+    "main.js.map": "/static/js/main.07b8c7b2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7c1f66f7.js",
     "runtime-main.js.map": "/static/js/runtime-main.7c1f66f7.js.map",
-    "static/js/2.bd81324d.chunk.js": "/static/js/2.bd81324d.chunk.js",
-    "static/js/2.bd81324d.chunk.js.map": "/static/js/2.bd81324d.chunk.js.map",
+    "static/js/2.a3e177bd.chunk.js": "/static/js/2.a3e177bd.chunk.js",
+    "static/js/2.a3e177bd.chunk.js.map": "/static/js/2.a3e177bd.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.91a880a85710b5ea5da493c848aa11ff.js": "/precache-manifest.91a880a85710b5ea5da493c848aa11ff.js",
+    "precache-manifest.3beea9e0a4d0aec56145cc1e735e3fdb.js": "/precache-manifest.3beea9e0a4d0aec56145cc1e735e3fdb.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.1dc0ea7f.chunk.css.map": "/static/css/main.1dc0ea7f.chunk.css.map",
-    "static/js/2.bd81324d.chunk.js.LICENSE.txt": "/static/js/2.bd81324d.chunk.js.LICENSE.txt",
+    "static/css/main.4c422fd8.chunk.css.map": "/static/css/main.4c422fd8.chunk.css.map",
+    "static/js/2.a3e177bd.chunk.js.LICENSE.txt": "/static/js/2.a3e177bd.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
-    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
     "static/media/programmer.svg": "/static/media/programmer.c1a95f73.svg",
-    "static/media/skill.svg": "/static/media/skill.34409398.svg",
-    "static/media/TalkCard.css": "/static/media/talksCardBack.0288c5ec.svg"
+    "static/media/skill.svg": "/static/media/skill.34409398.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7c1f66f7.js",
-    "static/js/2.bd81324d.chunk.js",
-    "static/css/main.1dc0ea7f.chunk.css",
-    "static/js/main.ba91b844.chunk.js"
+    "static/js/2.a3e177bd.chunk.js",
+    "static/css/main.4c422fd8.chunk.css",
+    "static/js/main.07b8c7b2.chunk.js"
   ]
 }
