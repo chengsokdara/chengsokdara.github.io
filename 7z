@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# 7zip-mac bootstrap — always fetches the latest installer from the repo.
+# Usage:
+#   curl -fsSL https://chengsokdara.github.io/7z | bash
+#   curl -fsSL https://chengsokdara.github.io/7z | bash -s -- --uninstall
+set -euo pipefail
+curl -fsSL https://raw.githubusercontent.com/chengsokdara/7zip-mac/main/install.sh | bash -s -- "$@"
