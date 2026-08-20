@@ -3,3 +3,5 @@
 # Source of truth also kept in the app monorepo:
 # apps/android/play-store/legal/app-ads.txt
 vungle.com, 6a85780627d36179ae02224d, DIRECT, c107d686becd2d77
+facebook.com, 1125354493488514, DIRECT, c3e20eee3f334d35
+
