@@ -13,6 +13,7 @@
 vungle.com, 6a85780627d36179ae02224d, DIRECT, c107d686becd2d77
 facebook.com, 1125354493488514, DIRECT, c3e20eee3f334d35
 toponad.com, 65795513f727bb5f291a81a72ec748b7, DIRECT, 1d49fe424a1a456d
+google.com, pub-5027810103679008, DIRECT, f08c47fec0942fa0
 adagio.io, 1050, RESELLER
 admanmedia.com, 2433, RESELLER
 admanmedia.com, 2435, RESELLER
