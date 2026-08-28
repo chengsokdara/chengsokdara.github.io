@@ -5,13 +5,11 @@
 # (not under /khmer-pride-keyboard/). Crawlers do not look in a project subpath.
 #
 # Matches the 1.2.0 / version code 13 LevelPlay AAB.
-# DIRECT: Meta Audience Network, Liftoff Monetize / Vungle.
-# ironSource Ads is bidding via Unity LevelPlay. Add
-#   ironsrc.com, <LevelPlay publisher ID>, DIRECT
-# once the publisher ID is copied from LevelPlay Account → API.
+# DIRECT: Meta Audience Network, Liftoff Monetize / Vungle, ironSource Ads.
 # Do not list TopOn ADX for this binary. Add Mintegral only after
 # that adapter ships.
 OWNERDOMAIN=chengsokdara.github.io
+ironsrc.com, 677017, DIRECT
 vungle.com, 6a85780627d36179ae02224d, DIRECT, c107d686becd2d77
 facebook.com, 1125354493488514, DIRECT, c3e20eee3f334d35
 google.com, pub-5027810103679008, DIRECT, f08c47fec0942fa0
