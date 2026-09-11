@@ -4,9 +4,12 @@
 # That file lives in the user GitHub Pages repo chengsokdara/chengsokdara.github.io
 # (not under /khmer-pride-keyboard/). Crawlers do not look in a project subpath.
 #
-# DIRECT: ironSource Ads, Liftoff/Vungle, Meta Audience Network, AdMob
-# (pub-5027810103679008), Unity Ads (unity.com 143756840).
-# Reseller blocks: Unity Ads dashboard + Liftoff/Vungle authorized sellers.
+# DIRECT: Google AdMob (pub-5027810103679008) and Meta Audience Network.
+# The splash banner is AdMob-direct; other host ads use AdMob mediation with
+# Meta Audience Network as a bidding source.
+# Unity Ads, ironSource Ads, and Liftoff/Vungle lines below were required by the
+# Unity LevelPlay builds through 1.5.0 and are legacy for AdMob builds: keep them
+# only until the LevelPlay flavors are retired for good.
 # Do not list TopOn as a DIRECT seller for this binary.
 OWNERDOMAIN=chengsokdara.github.io
 ironsrc.com, 677017, DIRECT
